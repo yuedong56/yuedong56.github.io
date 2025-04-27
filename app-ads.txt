@@ -1,1 +1,2 @@
-google.com, pub-7001339500985765, DIRECT, f08c47fec0942fa0app-ads.txt
+google.com, pub-7001339500985765, DIRECT, f08c47fec0942fa0
+google.com, pub-2169060532895909, DIRECT, f08c47fec0942fa0
