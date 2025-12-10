@@ -1,5 +1,15 @@
 {
   "isShow": true,
-  "title": "hello word.",
-  "url": "https://www.baidu.com",
+  "title": {
+    "en": "Hello world.",
+    "zh": "你好，世界。",
+    "ja": "こんにちは、世界。",
+    "ko": "안녕하세요 세계.",
+    "es": "Hola mundo.",
+    "ru": "Привет, мир.",
+    "pt": "Olá mundo.",
+    "fr": "Bonjour le monde.",
+    "de": "Hallo Welt.",
+  },
+  "url": "https://www.baidu.com"
 }
